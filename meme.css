@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(172, 169, 169);
+}
+
+#final-meme {
+    position: relative;
+}
+
+#top-text {
+    position: absolute;
+    top: 0px;
+}
+
+#bottom-text {
+    position: absolute;
+    bottom: 0px;
+}
+
+p {
+    font-style: italic;
+    font-size: 40px;
+    -webkit-text-stroke-color: rgb(221, 14, 14);
+    -webkit-text-stroke-width: 2px;
+}
